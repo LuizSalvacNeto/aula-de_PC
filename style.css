@@ -2,13 +2,13 @@ body {
     background-color:darkred
 }
 
-<h1>{
+h1 {
     color:white;
     text-align: center;
     font-size: 80px;
 }
 
-<p>{
+p {
     color:ghostwhite;
     text-align: justify;
     font-size: 35px;
