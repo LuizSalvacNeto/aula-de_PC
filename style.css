@@ -2,18 +2,18 @@ body {
     background-color:gray;
 }
 
-h1 {
+#Titulo {
     color:white;
     text-align: center;
     font-size: 80px;
 }
 
-p {
+.texto {
     color:ghostwhite;
     text-align: justify;
     font-size: 35px;
 }
-p {
+#missão {
    em strong {
     color: red; 
     text-align: center;
