@@ -13,3 +13,8 @@ p {
     text-align: justify;
     font-size: 35px;
 }
+p {
+   em strong {
+    color: red; 
+    text-align: center;
+    }  
