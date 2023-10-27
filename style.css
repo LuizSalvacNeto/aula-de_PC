@@ -9,9 +9,9 @@ body {
 }
 
 .texto {
-    color:rgb(0, 0, 0);
+    color:aliceblue
     text-align: justify;
-    font-size: 35px;
+    font-size: 50px;
 }
 #missão {
      text-align: center;
