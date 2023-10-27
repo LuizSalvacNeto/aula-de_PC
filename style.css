@@ -14,7 +14,9 @@ body {
     font-size: 35px;
 }
 #missão {
-   em strong {
+     text-align: center;
+    font-size: 35px; 
+   } 
+    em strong {
     color: red; 
-    text-align: center;
-    font-size: 35px;
+    }
