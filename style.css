@@ -2,6 +2,10 @@ body {
     background-color:gray;
 }
 
+#banner {
+    width: 100%
+}
+
 #Titulo {
     color:white;
     text-align: center;
